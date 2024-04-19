@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+# Ignore compiled binaries
+/bin/
+/build/
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.suo
+*.user
+*.csproj
