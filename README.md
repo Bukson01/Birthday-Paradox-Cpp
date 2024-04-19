@@ -14,7 +14,7 @@ This repository contains a C++ implementation of the Birthday Paradox simulation
 4. Follow the on-screen instructions to input the number of birthdays to generate.
 
 ## Files
-- `Birthday_app.cpp`: Contains the main C++ code for the simulation.
+- `Birthday_paradox.cpp`: Contains the main C++ code for the simulation.
 - `README.md`: Provides information about the project.
 - `LICENSE`: MIT License for the project.
 
